@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/admin/static/css/main.b65abdea.css",
+    "main.js": "/admin/static/js/main.08e44a09.js",
+    "static/js/498.1b583eae.chunk.js": "/admin/static/js/498.1b583eae.chunk.js",
+    "static/js/703.12330d3a.chunk.js": "/admin/static/js/703.12330d3a.chunk.js",
+    "static/js/598.e49d058d.chunk.js": "/admin/static/js/598.e49d058d.chunk.js",
+    "static/media/RedApple_Admin_Login.jpg": "/admin/static/media/RedApple_Admin_Login.36e1bdfc46501c9ad225.jpg",
+    "static/media/logo.png": "/admin/static/media/logo.78ba43012bd49671f3dd.png",
+    "index.html": "/admin/index.html",
+    "main.b65abdea.css.map": "/admin/static/css/main.b65abdea.css.map",
+    "main.08e44a09.js.map": "/admin/static/js/main.08e44a09.js.map",
+    "498.1b583eae.chunk.js.map": "/admin/static/js/498.1b583eae.chunk.js.map",
+    "703.12330d3a.chunk.js.map": "/admin/static/js/703.12330d3a.chunk.js.map",
+    "598.e49d058d.chunk.js.map": "/admin/static/js/598.e49d058d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b65abdea.css",
+    "static/js/main.08e44a09.js"
+  ]
+}
